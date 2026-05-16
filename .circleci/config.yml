@@ -18,7 +18,9 @@ jobs:
 
       - run: make lint 	
 
-      - run: make test       
+      - run: make test 
+
+      - run: docker_build      
 
 workflows: 
 
