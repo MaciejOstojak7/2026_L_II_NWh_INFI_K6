@@ -8,9 +8,7 @@ jobs:
 
     machine: 
 
-      image: ubuntu-2004:current 
-
-        
+      image: ubuntu-2004:current     
 
     steps: 
 
